@@ -14,7 +14,7 @@ I blend engineering with creativity to design impactful, real-world AI solutions
     <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
   </a>
   <a href="https://medium.com/@ush.hervoice">
-    <img src="https://skillicons.dev/icons?i=medium" width="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="35"/>
   </a>
   <a href="https://x.com/KUshakiranmayi">
     <img src="https://skillicons.dev/icons?i=twitter" width="35"/>
