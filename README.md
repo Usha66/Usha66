@@ -3,11 +3,7 @@
 ### ML Engineer · Ex-GDG on Campus Lead '25 · Writer
 
 I build intelligent systems that **think, learn, and inspire**.  
-I blend engineering with creativity to design impactful, real-world AI solutions.
 
-
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kushakiranmayi/">
