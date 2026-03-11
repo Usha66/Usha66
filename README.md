@@ -24,4 +24,4 @@ I blend engineering with creativity to design impactful, real-world AI solutions
   </a>
 </p>
 
----
+
